@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Phudu&family=Rowdies:wght@300&family=Truculenta:wght@200;400;600&display=swap');
+
+/*
+font-family: 'Phudu', cursive;
+font-family: 'Rowdies', cursive;
+font-family: 'Truculenta', sans-serif;
+*/
+
+body{
+    background-color: rgb(39, 39, 39);
+}
+
+p{
+    font-family: 'Truculenta', sans-serif;
+    font-size: large;
+    color: lightgray;
+}
+
+.titoli-principali{
+    font-family: 'Rowdies', cursive;
+    color: rgb(255, 176, 6);
+}
+
+.sottotitoli{
+    border: 50px;
+    
+    font-family: 'Phudu', cursive;
+    color: goldenrod;
+}
+
+footer{
+    color: whitesmoke;
+}
+
+figcaption{
+    color: gray;
+}
+
+.navigazione{
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.lista{
+    color: whitesmoke;
+}
+
+.link-footer{
+    color: whitesmoke;
+}
+
