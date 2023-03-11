@@ -22,7 +22,6 @@ p{
 }
 
 .sottotitoli{
-    border: 50px;
     
     font-family: 'Phudu', cursive;
     color: goldenrod;
@@ -50,3 +49,6 @@ figcaption{
     color: whitesmoke;
 }
 
+.referal-azienda{
+    color: whitesmoke;
+}
