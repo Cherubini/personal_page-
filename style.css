@@ -29,6 +29,7 @@ p{
 
 footer{
     color: whitesmoke;
+    margin: 20px;
 }
 
 figcaption{
@@ -51,4 +52,13 @@ figcaption{
 
 .referal-azienda{
     color: whitesmoke;
+}
+
+section{
+    border-bottom: solid 1px grey;
+    padding: 20px;
+}
+
+img{
+    width: 100%;
 }
