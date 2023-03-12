@@ -14,11 +14,13 @@ p{
     font-family: 'Truculenta', sans-serif;
     font-size: large;
     color: lightgray;
+    padding: 20px;
 }
 
 .titoli-principali{
     font-family: 'Rowdies', cursive;
     color: rgb(255, 176, 6);
+    text-align: center;
 }
 
 .sottotitoli{
@@ -39,7 +41,7 @@ figcaption{
 .navigazione{
     color: whitesmoke;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
+    font-size: 20px;
 }
 
 .lista{
@@ -56,9 +58,13 @@ figcaption{
 
 section{
     border-bottom: solid 1px grey;
-    padding: 20px;
 }
 
 img{
     width: 100%;
+    max-width: fit-content;
+}
+
+iframe{
+    padding: 20px;
 }
