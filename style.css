@@ -19,6 +19,7 @@ p{
     /* padding: 20px;
     margin: 0% 20% 0% 20%; */
     max-width: 800px;
+    text-align: justify;
 }
 
 .titoli-principali{
@@ -70,12 +71,18 @@ section{
 
 img{
     width: 100%;
-    max-width: 20%;
-    min-width: 300px;
+    max-width: 300px;
+}
+.flex-media{
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+
 }
 
 iframe{
-    padding: 20px;
+    border: 1px solid black;
+    width: auto;
 }
 
 /* *{
